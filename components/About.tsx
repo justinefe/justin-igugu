@@ -31,13 +31,13 @@ export default function About() {
           transition={{ delay: 0.2, duration: 0.5 }}
         >
           <p>
-            I'm Justin Igugu, a Senior Fullstack Engineer based in Plot 1, Greenpark Estate, Abijo, Lagos State, Nigeria.
+            I&apos;m Justin Igugu, a Senior Fullstack Engineer based in Plot 1, Greenpark Estate, Abijo, Lagos State, Nigeria.
             With over 5 years of experience, I specialize in building web and mobile products across e-commerce, logistics, and health sectors.
-            I lead frontend architecture at Quik Nation where I've shipped platforms like <strong className="text-blue-600 dark:text-blue-400">Quik Huddle</strong> and <strong className="text-blue-600 dark:text-blue-400">FMO Fine Grooming</strong>.
+            I lead frontend architecture at Quik Nation where I&apos;ve shipped platforms like <strong className="text-blue-600 dark:text-blue-400">Quik Huddle</strong> and <strong className="text-blue-600 dark:text-blue-400">FMO Fine Grooming</strong>.
             My expertise spans Next.js, React, and Node.js, delivering clean, performant code and leading teams to measurable outcomes.
           </p>
           
-          <p>Over the years I've:</p>
+          <p>Over the years I&apos;ve:</p>
           
           <ul className="space-y-3 ml-4">
             {[

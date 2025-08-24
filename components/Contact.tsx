@@ -47,9 +47,9 @@ export default function Contact() {
   return (
     <section id="contact" className="py-20 px-6 bg-gray-50 dark:bg-gray-900 scroll-mt-20">
       <div className="container mx-auto max-w-4xl">
-        <h2 className="text-3xl md:text-4xl font-bold mb-6 text-center">Let's build something great</h2>
+        <h2 className="text-3xl md:text-4xl font-bold mb-6 text-center">Let&apos;s build something great</h2>
         <p className="text-lg text-gray-600 dark:text-gray-400 text-center mb-12">
-          I'm available for product engineering, frontend architecture, and performance work.
+          I&apos;m available for product engineering, frontend architecture, and performance work.
         </p>
         
         <div className="grid md:grid-cols-4 gap-6">
@@ -76,9 +76,9 @@ export default function Contact() {
           <h3 className="text-xl font-semibold mb-4">Frequently Asked Questions</h3>
           <div className="space-y-4 text-left max-w-2xl mx-auto">
             <div>
-              <p className="font-medium mb-1">What's your core stack?</p>
+              <p className="font-medium mb-1">What&apos;s your core stack?</p>
               <p className="text-gray-600 dark:text-gray-400">
-                Next.js, React, Node.js. I'm comfortable across the stack but especially focused on frontend architecture.
+                Next.js, React, Node.js. I&apos;m comfortable across the stack but especially focused on frontend architecture.
               </p>
             </div>
             <div>

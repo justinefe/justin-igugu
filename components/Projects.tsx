@@ -317,7 +317,7 @@ export default function Projects() {
             href="#contact"
             className="inline-flex items-center gap-2 px-8 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-medium rounded-lg hover:shadow-lg hover:scale-105 transition-all duration-300"
           >
-            <span>Let's Collaborate</span>
+            <span>Let&apos;s Collaborate</span>
             <svg className="w-4 h-4" fill="none" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" viewBox="0 0 24 24" stroke="currentColor">
               <path d="M17 8l4 4m0 0l-4 4m4-4H3" />
             </svg>

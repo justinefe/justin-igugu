@@ -77,7 +77,7 @@ export default function Testimonials() {
 
                     {/* Quote */}
                     <blockquote className="text-lg text-gray-700 dark:text-gray-300 mb-6 italic">
-                      "{testimonial.content}"
+                      &ldquo;{testimonial.content}&rdquo;
                     </blockquote>
 
                     {/* Author */}

@@ -8,7 +8,7 @@ import { useState } from "react";
 const projects = [
   {
     name: "FMO Fine Grooming",
-    url: "https://fmofinegrooming.com/",
+    url: "https://fmogrooming.com/",
     role: "Lead Fullstack Engineer",
     period: "2023",
     category: "E-commerce Platform",
